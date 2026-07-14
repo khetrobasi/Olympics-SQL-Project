@@ -8,6 +8,15 @@ Project Overview
 
 Dataset
 ========
+This project uses the Olympic Games dataset.
+
+Files used:
+===========
+athlete_events.csv
+noc_regions.csv
+
+**Note:**
+The `athlete_events.csv` file is not included in this repository because it exceeds GitHub's web upload size limit (25 MB). The SQL scripts and project were developed using this dataset.
 
 The project uses the Kaggle dataset:
 ====================================
